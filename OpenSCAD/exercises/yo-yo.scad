@@ -1,3 +1,5 @@
+$fn = 50;
+
 height = 10;
 r_outer = 25;
 r_inner = 10;

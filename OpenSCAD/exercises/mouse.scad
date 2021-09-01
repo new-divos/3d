@@ -1,3 +1,5 @@
+$fn = 50;
+
 height = 2;
 r_head = 40;
 r_ear = 20;

@@ -1,4 +1,5 @@
-faces = 50;
+$fn = 50;
+
 height = 40;
 width = 30;
 band = 3;
@@ -9,7 +10,6 @@ difference() {
         cylinder(
             h=height + 2 * band, 
             r1=width / 2 - band, 
-            r2=width / 2 - band,
-            $fn=faces
+            r2=width / 2 - band
         );
 }
